@@ -5,3 +5,7 @@
 - [复习资料](materials.md)
 - [院校](colleges.md)
 - 等等
+## 2. 贡献
+有想贡献资料，提建议的同学欢迎提`Pull requests`
+
+有想获取资料，建议的同学欢迎提`Issues`
